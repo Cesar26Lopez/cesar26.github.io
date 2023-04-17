@@ -1,0 +1,29 @@
+
+.div1 {
+background:url(./free.jpg) no-repeat;
+width: 200px;
+heigth:200px;
+position:fixed;
+top: 20px;
+right: 20px;   
+
+}
+
+
+
+div.dos {
+  position: relative;
+  left: 80px;
+}
+
+div.cuatro {
+ 
+background: url(./Booyah.jpg) no-repeat;
+position: relative;
+color: yellow;
+padding:400px;
+borde:20px;
+box-sizing: border-box;que se respete el tamaño que estamos dando
+overflow: hidden;//para el desbordamiento
+font-family: 'courer-new',helvetica,serif;//cambio de letra
+}
